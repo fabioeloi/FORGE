@@ -3,14 +3,21 @@
 # 🔱 FORGE
 ### **F**ile-driven **O**rchestration for **R**obust **G**enerative **E**ngineering
 
-*Autonomous multi-agent harness para desenvolvimento de longa duração no VSCode com GitHub Copilot Pro+*
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://github.com/seu-usuario/forge)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](https://github.com/seu-usuario/forge/releases)
+[![VSCode](https://img.shields.io/badge/VSCode-1.111+-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/updates/v1_111)
+[![Copilot Pro+](https://img.shields.io/badge/GitHub_Copilot-Pro+-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/features/copilot/plans)
 
-[![VSCode](https://img.shields.io/badge/VSCode-1.111+-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/updates/v1_111)
-[![Copilot Pro+](https://img.shields.io/badge/GitHub_Copilot-Pro+-24292F?style=flat-square&logo=github)](https://github.com/features/copilot/plans)
+[![Claude Opus](https://img.shields.io/badge/Planner-Claude_Opus_4.5-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+[![GPT-4.1](https://img.shields.io/badge/Builder-GPT--4.1_0×-412991?style=flat-square&logo=openai&logoColor=white)](https://github.com/features/models)
+[![Claude Sonnet](https://img.shields.io/badge/Evaluator-Claude_Sonnet_4.5-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com)
+
+[![Omni Architect](https://img.shields.io/badge/Integrates-Omni_Architect-blueviolet?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/fabioeloi/omni-architect)
+[![Budget](https://img.shields.io/badge/Budget-4--5_credits%2Ffeature-green?style=flat-square&logo=github)](https://docs.github.com/en/copilot/concepts/billing/copilot-requests)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Omni Architect](https://img.shields.io/badge/Integrates-Omni_Architect-blueviolet?style=flat-square)](https://github.com/fabioeloi/omni-architect)
 
 </div>
+
 
 ---
 
